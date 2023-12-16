@@ -68,3 +68,4 @@ generate_common_game_asset(
     {kind: "background1", description: "Night Pumpkin's dark castle"}  
  ]
 )
+-
