@@ -1,0 +1,5 @@
+/vendor/
+/.runa/*
+!/.runa/.gitkeep
+/.token
+/output/
